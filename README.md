@@ -1,5 +1,7 @@
 # ccc.nvim
 
+>Hoạt động tố như kỳ vọng. đang sử dụng ổn định cùng lunarvim.
+
 **C**reate **C**olor **C**ode in neovim.
 
 Use the colorful sliders to easily generate any desired color!
